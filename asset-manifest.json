@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gallery/static/css/main.af49be88.chunk.css",
+    "main.js": "/gallery/static/js/main.febde001.chunk.js",
+    "main.js.map": "/gallery/static/js/main.febde001.chunk.js.map",
+    "runtime-main.js": "/gallery/static/js/runtime-main.66dff5cb.js",
+    "runtime-main.js.map": "/gallery/static/js/runtime-main.66dff5cb.js.map",
+    "static/js/2.b8c893c5.chunk.js": "/gallery/static/js/2.b8c893c5.chunk.js",
+    "static/js/2.b8c893c5.chunk.js.map": "/gallery/static/js/2.b8c893c5.chunk.js.map",
+    "static/js/3.e2962254.chunk.js": "/gallery/static/js/3.e2962254.chunk.js",
+    "static/js/3.e2962254.chunk.js.map": "/gallery/static/js/3.e2962254.chunk.js.map",
+    "index.html": "/gallery/index.html",
+    "static/css/main.af49be88.chunk.css.map": "/gallery/static/css/main.af49be88.chunk.css.map",
+    "static/js/2.b8c893c5.chunk.js.LICENSE.txt": "/gallery/static/js/2.b8c893c5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gallery/static/media/adrien-olichon-ilVYjf0J378-unsplash.05cb44d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66dff5cb.js",
+    "static/js/2.b8c893c5.chunk.js",
+    "static/css/main.af49be88.chunk.css",
+    "static/js/main.febde001.chunk.js"
+  ]
+}
