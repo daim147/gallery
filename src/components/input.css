@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.2rem;
+  z-index: 10;
+}
+.form input {
+  color: red;
+  background-color: rgb(201, 198, 198);
+  outline: none;
+  padding: 10px 15px;
+  font-size: 1.2rem;
+  margin-right: 20px;
+  font-weight: bold;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  z-index: 10;
+  cursor: pointer;
+}
+.form button {
+  z-index: 10;
+  cursor: pointer;
+}
